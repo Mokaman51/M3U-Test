@@ -1,31 +1,81 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",כאן 11
+#EXTINF:-1,Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",קשת 12
+#EXTINF:-1,Keshet 12
 https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",רשת 13
+#EXTINF:-1,Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg",חדשות איי 24
+#EXTINF:-1,i24 news
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Eretz%20Nehederet.png",ארץ נהדרת
+#EXTINF:-1,Eretz Nehederet
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",האח הגדול
+#EXTINF:-1,Big Brother
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",ספורט 1
+#EXTINF:-1,Sport 1
 https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",ספורט 2
+#EXTINF:-1,Sport 2
 https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",ספורט 3
+#EXTINF:-1,Sport 3
 https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",ספורט 4
+#EXTINF:-1,Sport 4
 https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
+#EXTINF:-1,Sport 5
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+#EXTINF:-1,Sport 5 Plus
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+#EXTINF:-1,Sport 5 Live
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+#EXTINF:-1,Sport 5 Stars
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
+#EXTINF:-1,Sport One 1
+https://windnew.newkso.ru/wind/premium54/mono.m3u8
+#EXTINF:-1,Fox News
+https://zekonew.newkso.ru/zeko/premium347/mono.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,NBC News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1,Komo 4 News
+https://content.uplynk.com/SuNoSwen/index.m3u8?channel=140
+#EXTINF:-1,King 5 News
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+#EXTINF:-1,Kiro 7 News
+https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106
+#EXTINF:-1,Q13 News
+https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=1704666696&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=555107&content_type=mp4&device_id=caec4c21-b9fb-4e15-bcc4-33cc34e9e679&language=en&now_pos=0&platform=WEB&pub_id=0a2ada522f8db273c200b95eee98d316&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9rY3BxL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKallXVmpOR015TVMxaU9XWmlMVFJsTVRVdFltTmpOQzB6TTJOak16UmxPV1UyTnpraUxDSmxlSEFpT2pFM01EUTVNalU0T1RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLnVvWnJQazBncG53a0cwOWpiR0F2S3dEb1hoMkNxX1o5Mm1GeE9DZHdISjZ3T0xMRW1kbzNsM1lYd0h2TGFhMUJfQVpmazhIeXFTRDR4YlVweTdiZmpR
+#EXTINF:-1,ABC NY
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+#EXTINF:-1,NBC NY
+https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
+#EXTINF:-1,CBS NY
+https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
+#EXTINF:-1,Fox NY
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+#EXTINF:-1,Scan
+https://zekonew.newkso.ru/zeko/premium[1]-[900]/mono.m3u8
+#EXTINF:-1,Galaz
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+#EXTINF:-1,Galgalaz
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
+#EXTINF:-1,88FM
+http://kanliveicy.media.kan.org.il/icy/kan88_mp3
+#EXTINF:-1,99FM - Echo
+http://99.livecdn.biz/99fm
+#EXTINF:-1,100FM - Radius
+https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8
+#EXTINF:-1,102FM - Tel-Aviv
+https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio
+#EXTINF:-1,103FM - Lelo Hafsaka
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:-1,107.5FM - Haifa
+http://ads11.livecdn.biz:80/radiohaifa
+#EXTINF:-1,Nostalgy
+http://194.213.4.197:8000/;
+#EXTINF:-1,Kol Hamusica
+http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
+#EXTINF:-1,Tarbut
+http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
+#EXTINF:-1,Reshet Bet
+https://kanbet.media.kan.org.il/hls/live/2024811/2024811/kanbet_mp3/chunklist.m3u8
+#EXTINF:-1,Reshet Gimel
+http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3
