@@ -1,57 +1,170 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 COMEDY
-https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 NOFESH
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 REALITY
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 ERETZ COUNTRY
-https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 SAVRI MARNAN
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 HATUNA WEDDING
-https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 NINJA ISR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YR2hWPq/stare-0ec07318c4.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 KOHAV STAR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_10801920_p_0.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="|IL|🇮🇱 ISRAEL",ISRAEL PLUS 9 канал
-https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
-https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
-https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL",i24 NEWS HE עברית
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS ידיעות אחרונות
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
+https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
+https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
+https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
+https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 tvg-id="i24NEWSArabic.il",I24 News Arabic (720p)
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il",I24 News English (720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="",I24 News Hebrew (720p)
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL",HINUCHIT 23
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="freeiptvgithub",i24 NEWS HE עברית
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="freeiptvgithub",i24 NEWS EN
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="freeiptvgithub",i24 NEWS AR
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel9.il",Channel 9 (540p) [Not 24/7]
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-id="HalaTV.il",Hala TV (1080p) [Not 24/7]
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="freeiptvgithub",PANET 30 HALA هلا
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png" group-title="freeiptvgithub",ISRAEL 9TV канал
+https://new.cache-stream.workers.dev/channel/UCixtbfonx_QIjS1DB96zcFg/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png" group-title="freeiptvgithub",ISRAEL 9TV канал
+https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png" group-title="freeiptvgithub",ISRAEL 9TV канал [diedlink]
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 sub-cc כאן
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן (backup)
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן (backup)
+https://kan11b.media.kan.org.il/hls/live/2096972/2096972/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqcljik/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן sub-cc (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6s3/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxntss/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="Kan11.il",KAN 11 Israel (1080p)
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png" group-title="freeiptvgithub",KAN 26 אפיק
+https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
+#EXTINF:-1 tvg-id="KanEducational.il",Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL|🇮🇱 ISRAEL",MAKO 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="freeiptvgithub",HINUCHIT 23 חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="freeiptvgithub",HINUCHIT 23 sub-cc חינוכית (backup rescue)
+https://kan23w.media.kan.org.il/hls/live/2108842/2108842/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="freeiptvgithub",HINUCHIT 23 חינוכית (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv" group-title="freeiptvgithub",KESHET 12 קשת
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv" group-title="freeiptvgithub",KESHET 12 sub-cc קשת
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12cc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת (backup)
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת (backup)
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת (backup)
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [find-host]
+https://PuthereYourserverHostaddress/k12.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [find-host]
+https://PuthereYourserverHostaddress/k12dvr.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [find-host]
+https://PuthereYourserverHostaddress/k12cc.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [mako-src]
+https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index.m3u8?hdnea=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [mako-src]
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdnea=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [mako-src]
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?hdnea=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת [frame-issue]
+http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_4000_I-Frame.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k644c1S3/eretz.jpg" group-title="freeiptvgithub",KESHET 12 ERETZ COUNTRY
+https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwVvjgWn/savri.jpg" group-title="freeiptvgithub",KESHET 12 SAVRI MARNAN
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_5761024_p_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvXmDXdW/hatunami.jpg" group-title="freeiptvgithub",KESHET 12 HATUNA WEDDING
+https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_5761024_p_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF5Zvwgt/ninja.jpg" group-title="freeiptvgithub",KESHET 12 NINJA ISR
+https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_5761024_p_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcQcGr6y/kohav.jpg" group-title="freeiptvgithub",KESHET 12 KOHAV STAR
+https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_5761024_p_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="freeiptvgithub",RESHET 13 COMEDY
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="freeiptvgithub",RESHET 13 NOFESH
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="freeiptvgithub",RESHET 13 REALITY
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+#EXTINF:-1 tvg-id="Channel13.il",Reshet 13 (1080p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 tvg-id="Channel13.il",Reshet 13 (720p)
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 sub-cc רשת
+https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backup)
+https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backup)
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backup)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backup)
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backup)
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 sub-cc רשת (backup)
+https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="freeiptvgithub",RESHET 13 רשת (backlink)
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="freeiptvgithub",RESHET 13 COMEDY (backup)
+https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8
+#EXTINF:-1 tvg-id="Now14.il",Now 14 (720p)
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="freeiptvgithub",NOW 14 עכשיו
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="freeiptvgithub",NOW 14 עכשיו
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="freeiptvgithub",NOW 14 עכשיו (backup)
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="freeiptvgithub",MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="|IL|🇮🇱 ISRAEL",HAKNESSET 99
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="freeiptvgithub",MAKO 24 ערוץ (backup)
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="freeiptvgithub",MAKO 24 ערוץ [find-host]
+https://PuthereYourserverHostaddress/ch24.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="freeiptvgithub",MAKO 24 ערוץ [mako-src]
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=
+#EXTINF:-1 tvg-id="Makan33.il",Makan 33 (1080p)
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="freeiptvgithub",KAN 33 MAKAN مكان
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="freeiptvgithub",KAN 33 MAKAN مكان (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il",Knesset Channel (480p) [Not 24/7]
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="|IL|🇮🇱 ISRAEL",WALLA NEWS
-https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png" group-title="|IL|🇮🇱 ISRAEL",KABBALAH 96
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png" group-title="|IL|🇮🇱 ISRAEL",HIDABROOT 97
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/r2VceK3.jpg" group-title="|IL|🇮🇱 ISRAEL",האח הגדול  
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 sub-cc כנסת
+https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+http://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+https://contactgbs.mmdlive.lldns.net/contactgbs/ed17ad332cc146d78a8a8a7a48d9771b/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
