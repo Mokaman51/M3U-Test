@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS ידיעות אחרונות
-https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
-https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
-https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
-https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png" group-title="freeiptvgithub",YNET NEWS (feed)
-https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il",I24 News English (720p)
@@ -168,3 +158,4 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957
 https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="freeiptvgithub",HAKNESSET 99 כנסת (backlink)
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
