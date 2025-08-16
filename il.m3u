@@ -38,7 +38,7 @@ https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqclj
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6s3/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="freeiptvgithub",KAN 11 כאן (backlink)
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxntss/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Kan11.il",KAN 11 כאן
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" tvg-id="Kan11.il",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
@@ -46,7 +46,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png" group-title="freeiptvgithub",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il",Kan Educational כאן חינוכית
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2560px-KanHinuchit.svg.png" tvg-id="KanEducational.il",Kan Educational כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="freeiptvgithub",HINUCHIT 23 חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
@@ -112,7 +112,7 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://PuthereYourserverHostaddress/ch24.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="freeiptvgithub",MAKO 24 ערוץ [mako-src]
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=
-#EXTINF:-1 tvg-id="Makan33.il",Makan 33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="Makan33.il",Makan 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="freeiptvgithub",KAN 33 MAKAN مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
