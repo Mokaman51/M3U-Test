@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת (MIKA)
+http://stremioaddon.vercel.app/mako
 #EXTINF:-1 tvg-id="i24NEWSArabic.il",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il",I24 News English (720p)
