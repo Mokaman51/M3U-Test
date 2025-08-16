@@ -54,7 +54,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://kan23w.media.kan.org.il/hls/live/2108842/2108842/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="freeiptvgithub",HINUCHIT 23 חינוכית (backlink)
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="freeiptvgithub",KESHET 12 קשת
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="stremio",KESHET 12 קשת
 http://stremioaddon.vercel.app/mako
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k644c1S3/eretz.jpg" group-title="freeiptvgithub",KESHET 12 ERETZ COUNTRY
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_5761024_p_0.m3u8
