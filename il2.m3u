@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" tvg-id="11.כאן.il",KAN 11 כאן
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" tvg-id="ערוץ.11.כאן.שידור.חי.il",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2560px-KanHinuchit.svg.png" tvg-id="‎כאן.חינוכית.il",Kan Educational כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png" tvg-id="",KAN 26 אפיק
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" tvg-id="קשת.il",KESHET 12 קשת
 http://stremioaddon.vercel.app/mako
