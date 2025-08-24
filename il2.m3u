@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" tvg-id="ערוץ.11.כאן.שידור.חי.il",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2560px-KanHinuchit.svg.png" tvg-id="‎כאן.חינוכית.il",Kan Educational כאן חינוכית
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2560px-KanHinuchit.svg.png" tvg-id="‎ערוץ.23.רק.ישראלי.il",Kan Educational כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
@@ -28,7 +28,7 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" tvg-id="עכשיו.בסלקום.tv.il",NOW 14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" tvg-id="24.מוסיקה.il",MAKO 24 ערוץ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" tvg-id="ערוץ.24.בשידור.חי.il",MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="מכאן.il",MAKAN 33 مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
